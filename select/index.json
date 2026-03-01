@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gamble Rumble",
+  "base_artist": "m.o.v.e",
+  "createdAt": "2026-03-01T07:21:51.757750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "Move",
+      "has_synced": true,
+      "path": "select/01_Gamble_Rumble_Move.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gamble Rumble - Stage 7 Version",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/02_Gamble_Rumble_-_Stage_7_Version_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/03_Gamble_Rumble_m.o.v.e.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/04_Gamble_Rumble_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "M.O.V.E",
+      "has_synced": true,
+      "path": "select/05_Gamble_Rumble_M.O.V.E.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/06_Gamble_Rumble_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "M.o.v.e",
+      "has_synced": true,
+      "path": "select/07_Gamble_Rumble_M.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/08_Gamble_Rumble_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/09_Gamble_Rumble_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "Initial D (Move)",
+      "has_synced": true,
+      "path": "select/10_Gamble_Rumble_Initial_D_(Move).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/11_Gamble_Rumble_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "gamble rumble",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/12_gamble_rumble_move.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/13_Gamble_Rumble_move.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gamble Rumble",
+      "artist": "Merm4id",
+      "has_synced": true,
+      "path": "select/14_Gamble_Rumble_Merm4id.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gamble Rumble -TV MIX-",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/15_Gamble_Rumble_-TV_MIX-_move.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gamble Rumble -yin to deep mix-",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/16_Gamble_Rumble_-yin_to_deep_mix-_move.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gamble Rumble (TV MIX)",
+      "artist": "move",
+      "has_synced": false,
+      "path": "select/17_Gamble_Rumble_(TV_MIX)_move.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gamble Rumble",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Gamble_Rumble_m.o.v.e.txt"
+    }
+  ]
+}
